@@ -1,0 +1,345 @@
+{
+    "rice": {
+        "diseases": [
+            "brown spot", "sheath blight", "rice yellow dwarf",
+            "bacterial leaf blight", "rice tungro", "false smut",
+            "bacterial leaf streak", "bakanae", "rice grassy stunt",
+            "grain discoloration", "blast", "black scurf",
+            "foot rot", "kernel smut", "leaf smut",
+            "neck blast", "panicle blight", "sheath rot",
+            "stem rot", "stripe virus", "white tip", "neck balst",
+            "panicle blight", "stem rot"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "sorghum": {
+        "diseases": [
+            "head smut", "downy mildew", "covered kernel smut",
+            "rust", "long smut", "smut", "anthracnose", "red",
+            "cereal grain molds", "rot", "ergot", "leaf blight",
+            "leaf spot", "stalk rot", "wilt", "leaf streak",
+            "leaf rust", "leaf blight", "rust", "downy mildew"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "wheat": {
+        "diseases": [
+            "stem rust", "leaf rust", "stripe rust",
+            "powdery mildew", "fusarium head blight", "septoria",
+            "tan spot", "take-all", "eyespot", "crown rot",
+            "ergot", "scab", "smut", "leaf blotch",
+            "yellow rust", "black rust", "root rot",
+            "head blight", "foot rot", "bunt",
+            "kernel smut", "leaf curl", "mild mosaic",
+            "scab", "smut", "leaf blotch", "yellow rust"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "sugarcane": {
+        "diseases": [
+            "red rot", "smut", "leaf scald",
+            "ratoon stunting disease", "orange rust",
+            "top rot", "wilt", "grassy shoot",
+            "ratoon shoot borer", "white leaf disease",
+            "eye spot", "yellow spot", "leaf scorch",
+            "purple spot", "brown rust", "downy mildew",
+            "leaf spot", "ring spot", "root rot",
+            "stalk rot", "stem borer", "smut",
+            "soft rot", "stem rot"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "ragi": {
+        "diseases": [
+            "blast", "downy mildew", "ergot", "leaf spot",
+            "smut", "head smut", "leaf blast", "leaf scald",
+            "rust", "rot", "stalk rot", "root rot"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "chickpea": {
+        "diseases": [
+            "ascochyta blight", "botrytis gray mold", "fusarium wilt",
+            "leaf spot", "powdery mildew", "damping off", "anthracnose",
+            "root rot", "rust", "black root rot", "collar rot", "downy mildew"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "red gram": {
+        "diseases": [
+            "wilt", "sterility mosaic", "leaf blight", "pod borer",
+            "powdery mildew", "root rot", "rust", "stem blight",
+            "tip blight", "phyllody", "leaf spot", "damping off"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "black gram": {
+        "diseases": [
+            "wilt", "leaf crinkle", "powdery mildew", "yellow mosaic",
+            "cercospora leaf spot", "anthracnose", "damping off", "root rot",
+            "stem rot", "rust", "leaf curl", "bean common mosaic virus"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "sunflower": {
+        "diseases": [
+            "downy mildew", "rust", "leaf spot", "stem rot",
+            "powdery mildew", "white mold", "sclerotinia rot", "head rot",
+            "bacterial blight", "verticillium wilt", "charcoal rot", "fusarium wilt"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "groundnut": {
+        "diseases": [
+            "leaf spot", "rust", "collar rot", "wilt",
+            "root rot", "leaf curl", "tobacco streak virus", "powdery mildew",
+            "late leaf spot", "early leaf spot", "stem rot", "pod rot"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "tobacco": {
+        "diseases": [
+            "black shank", "blue mold", "frogeye leaf spot", "granville wilt",
+            "bacterial wilt", "powdery mildew", "root knot nematode", "rust",
+            "tobacco mosaic virus", "damping off", "brown spot", "leaf curl"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "mustard": {
+        "diseases": [
+            "alternaria blight", "downy mildew", "powdery mildew", "sclerotinia rot",
+            "white rust", "leaf spot", "wilt", "rust",
+            "damping off", "black rot", "stem rot", "anthracnose"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "gingelly": {
+        "diseases": [
+            "leaf spot", "powdery mildew", "downy mildew", "root rot",
+            "wilt", "alternaria leaf spot", "anthracnose", "fusarium wilt",
+            "stem rot", "charcoal rot", "bacterial blight", "white rust"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "castor": {
+        "diseases": [
+            "leaf spot", "wilt", "root rot", "powdery mildew",
+            "anthracnose", "rust", "downy mildew", "leaf blight",
+            "stem rot", "white mold", "charcoal rot", "fusarium wilt"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "safflower": {
+        "diseases": [
+            "root rot", "powdery mildew", "leaf spot", "rust",
+            "stem rot", "downy mildew", "anthracnose", "wilt",
+            "fusarium wilt", "charcoal rot", "black rot", "alternaria blight"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "cotton": {
+        "diseases": [
+            "boll rot", "bacterial blight", "leaf spot", "wilt",
+            "root rot", "alternaria leaf spot", "fusarium wilt", "anthracnose",
+            "damping off", "powdery mildew", "rust", "verticillium wilt"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "coffee": {
+        "diseases": [
+            "coffee leaf rust","coffee berry disease","coffee wilt disease",
+            "root rot", "leaf blight","anthracnose","fusarium wilt",
+            "black rot","coffee nematode","cercospora leaf spot",
+            "coffee borer disease","phoma leaf spot","collar rot"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+    },
+    "tea": {
+        "diseases": [
+          "blister blight", "red rust", "black rot", "grey blight", "brown blight",
+          "stem canker", "root rot", "leaf spot", "algal leaf spot",
+          "tea mosquito bug", "fusarium wilt","phomopsis canker","powdery mildew"
+        ],
+        "cultivation": [
+            "cultivation practices", "sowing", "irrigation", 
+            "fertilization", "weeding", "harvesting", 
+            "post-harvest", "pest control", "soil preparation", 
+            "no-till farming", "crop rotation", "winter wheat", 
+            "spring wheat", "seed treatment", "harvest management", 
+            "fertility management", "wheat varieties", "weed control", 
+            "disease management", "residue management", "intercropping", 
+            "water management", "mulching", "cover cropping", 
+            "organic farming", "manure", "seed treatment"
+        ]
+      }
+}           
